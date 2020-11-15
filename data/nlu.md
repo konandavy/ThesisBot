@@ -7,6 +7,7 @@
 - Hey
 - Hey mate
 - Sup
+- Hello
 
 ## intent:fine_ask
 - I am good, how are you doing?
@@ -47,6 +48,7 @@
 
 ## intent:out_of_scope
 - rien du tout
+- Why ?
 
 ## intent:wyd_question
 - What are you doing ?
